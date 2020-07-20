@@ -1,4 +1,4 @@
-# sign_language_from_english
+# sign language translator for english
 This program converts english to sign language
 
 **NOTE**
